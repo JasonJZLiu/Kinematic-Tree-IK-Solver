@@ -3,6 +3,7 @@ This repository provides an inverse kinematics solver for kinematic trees, imple
 
 ## Pip Dependencies: 
 [meshcat](https://github.com/rdeits/meshcat-python): Provides a remotely-controllable 3D viewer
+
 [numpy](https://numpy.org/): Library for scientific computing
 
 ## Installing pyDrake:
